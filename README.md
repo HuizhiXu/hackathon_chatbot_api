@@ -1,1 +1,1 @@
-# hackathon_chatbot_openai_api
+# hackathon_chatbot_api
