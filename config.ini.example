@@ -1,0 +1,5 @@
+[open_ai]
+OPENAI_API_KEY=xxxx
+[serp_api]
+SERPAPI_API_KEY=yyyy
+
